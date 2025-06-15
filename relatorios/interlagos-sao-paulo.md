@@ -32,9 +32,11 @@ A seguir, apresentamos os principais indicadores demográficos e de segurança p
 ## Análise Detalhada
 
 ### Demografia
+
 Interlagos é uma região predominantemente residencial com aproximadamente 92.000 habitantes. A área total é de cerca de 24,5 milhões de metros quadrados, incluindo o autódromo e parte do reservatório Guarapiranga. A região apresenta contrastes socioeconômicos significativos, com áreas de classe média e média-alta próximas ao autódromo e regiões mais vulneráveis nas periferias.
 
 ### Segurança Pública
+
 Os índices de criminalidade em Interlagos seguem padrões semelhantes à média da zona sul de São Paulo, com algumas particularidades:
 
 1. **Homicídios e Crimes Violentos**: A taxa de homicídios (15,2 por 100 mil habitantes) está abaixo da média do município de São Paulo, que registrou aproximadamente 18 homicídios por 100 mil habitantes em 2024, conforme dados do Atlas da Violência 2025. Os latrocínios também apresentam índices relativamente baixos.
@@ -52,6 +54,7 @@ Os índices de criminalidade em Interlagos seguem padrões semelhantes à média
 Interlagos apresenta indicadores de segurança ligeiramente melhores que a média da cidade de São Paulo em relação a crimes violentos, mas enfrenta desafios significativos quanto a crimes contra o patrimônio e acidentes de trânsito. A região tem experimentado melhorias graduais nos índices de segurança nos últimos anos, mas ainda requer atenção especial das autoridades, principalmente no combate aos furtos e na prevenção de acidentes de trânsito.
 
 ## Fontes
+
 - Atlas da Violência 2025 (IPEA/FBSP)
 - Secretaria de Segurança Pública do Estado de São Paulo (2024-2025)
 - INFOCRIM - Sistema de Informações Criminais (2025)
